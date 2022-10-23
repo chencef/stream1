@@ -1,0 +1,397 @@
+2022-10-21 17:45:46.756 Loaded backend agg version unknown.
+2022-10-21 17:45:46.756 No singleton. Registering one.
+2022-10-21 17:45:46.757 Watcher created for C:\Users\111\streamlit\newrepo2\pages
+2022-10-21 17:45:46.758 Using selector: SelectSelector
+2022-10-21 17:45:46.759 Starting server...
+2022-10-21 17:45:46.759 Serving static content from c:\users\111\appdata\local\programs\python\python39\lib\site-packages\streamlit\static
+2022-10-21 17:45:46.762 Server started on port 8501
+2022-10-21 17:45:46.762 Runtime state: RuntimeState.INITIAL -> RuntimeState.NO_SESSIONS_CONNECTED
+2022-10-21 17:45:46.823 Popen(['git', 'version'], cwd=C:\Users\111\streamlit\newrepo2, universal_newlines=False, shell=None, istream=None)
+2022-10-21 17:45:46.834 Skipping PyPI version check
+2022-10-21 17:45:46.834 Setting up signal handler
+2022-10-21 17:45:47.706 Watcher created for C:\Users\111\streamlit\newrepo2\eee.py
+2022-10-21 17:45:47.706 AppSession initialized (id=29b8028f-95f6-408a-9158-4ca471ce3236)
+2022-10-21 17:45:47.706 Created new session for client 1317821670496. Session ID: 29b8028f-95f6-408a-9158-4ca471ce3236
+2022-10-21 17:45:47.706 Runtime state: RuntimeState.NO_SESSIONS_CONNECTED -> RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED
+2022-10-21 17:45:47.728 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-4cbe738358c8aa0c555e59c5aef80cff-None"
+      string_value: "09"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-3f86f938ebab21705c9a920290c8484d-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-1"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-11425a4247cfb1da1a11849520c418db-p1"
+      bool_value: false
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-83783fc7a92f6e02007e22a3af33b2ee-p2"
+      bool_value: false
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-3"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-83783fc7a92f6e02007e22a3af33b2ee-p3"
+      bool_value: false
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-5"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-93e8837b61b0b0e04fb6e92626b3bf17-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-e7d5be30838000cfd00f738853e42014-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-e0faa8448f8f0325f003534b1ef72e94-11"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-384ebf398b017dfb7ab094c42f5fe7e1-12"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-203c90f0095af102d72a6363d13e0a16-13"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-9a6225ec738c7c84ec657edd567c77df-None"
+      int_value: 0
+    }
+  }
+  page_script_hash: "de4ebb49f335b83bdb8d5c02a55f8c3e"
+}
+
+2022-10-21 17:45:47.729 Beginning script thread
+2022-10-21 17:45:47.729 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-4cbe738358c8aa0c555e59c5aef80cff-None"
+  string_value: "09"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-3f86f938ebab21705c9a920290c8484d-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-1"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-11425a4247cfb1da1a11849520c418db-p1"
+  bool_value: false
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-83783fc7a92f6e02007e22a3af33b2ee-p2"
+  bool_value: false
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-3"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-83783fc7a92f6e02007e22a3af33b2ee-p3"
+  bool_value: false
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-5"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-93e8837b61b0b0e04fb6e92626b3bf17-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-e7d5be30838000cfd00f738853e42014-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-e0faa8448f8f0325f003534b1ef72e94-11"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-384ebf398b017dfb7ab094c42f5fe7e1-12"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-203c90f0095af102d72a6363d13e0a16-13"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-9a6225ec738c7c84ec657edd567c77df-None"
+  int_value: 0
+}
+, page_script_hash='de4ebb49f335b83bdb8d5c02a55f8c3e', page_name='')
+2022-10-21 17:45:47.729 Disconnecting files for session with ID 29b8028f-95f6-408a-9158-4ca471ce3236
+2022-10-21 17:45:47.729 Sessions still active: dict_keys([])
+2022-10-21 17:45:47.729 Files: 0; Sessions with files: 0
+2022-10-21 17:45:48.207 This message should go to the log file
+2022-10-21 17:45:48.293 Watcher created for C:\Users\111\streamlit\newrepo2\eee.py
+2022-10-21 17:45:48.293 AppSession initialized (id=0650a421-6ae8-4fa9-ad34-bfd941e37a71)
+2022-10-21 17:45:48.293 Created new session for client 1317848095712. Session ID: 0650a421-6ae8-4fa9-ad34-bfd941e37a71
+2022-10-21 17:45:48.293 Runtime state: RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED -> RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED
+2022-10-21 17:45:48.310 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-4cbe738358c8aa0c555e59c5aef80cff-None"
+      string_value: "09"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-3f86f938ebab21705c9a920290c8484d-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-11425a4247cfb1da1a11849520c418db-p1"
+      bool_value: false
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-1"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-83783fc7a92f6e02007e22a3af33b2ee-p2"
+      bool_value: false
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-3"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-83783fc7a92f6e02007e22a3af33b2ee-p3"
+      bool_value: false
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-5"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-93e8837b61b0b0e04fb6e92626b3bf17-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-e7d5be30838000cfd00f738853e42014-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-9a6225ec738c7c84ec657edd567c77df-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-e0faa8448f8f0325f003534b1ef72e94-11"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-384ebf398b017dfb7ab094c42f5fe7e1-12"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-203c90f0095af102d72a6363d13e0a16-13"
+      int_value: 0
+    }
+  }
+  page_script_hash: "de4ebb49f335b83bdb8d5c02a55f8c3e"
+}
+
+2022-10-21 17:45:48.311 Beginning script thread
+2022-10-21 17:45:48.311 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-4cbe738358c8aa0c555e59c5aef80cff-None"
+  string_value: "09"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-3f86f938ebab21705c9a920290c8484d-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-11425a4247cfb1da1a11849520c418db-p1"
+  bool_value: false
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-1"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-83783fc7a92f6e02007e22a3af33b2ee-p2"
+  bool_value: false
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-3"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-83783fc7a92f6e02007e22a3af33b2ee-p3"
+  bool_value: false
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-06912b2b07579c37e5c854f4146b9ff0-5"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-93e8837b61b0b0e04fb6e92626b3bf17-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-e7d5be30838000cfd00f738853e42014-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-9a6225ec738c7c84ec657edd567c77df-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-e0faa8448f8f0325f003534b1ef72e94-11"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-384ebf398b017dfb7ab094c42f5fe7e1-12"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-203c90f0095af102d72a6363d13e0a16-13"
+  int_value: 0
+}
+, page_script_hash='de4ebb49f335b83bdb8d5c02a55f8c3e', page_name='')
+2022-10-21 17:45:48.313 Disconnecting files for session with ID 0650a421-6ae8-4fa9-ad34-bfd941e37a71
+2022-10-21 17:45:48.313 Sessions still active: dict_keys([])
+2022-10-21 17:45:48.313 Files: 0; Sessions with files: 0
+2022-10-21 17:45:48.328 This message should go to the log file
+2022-10-21 17:45:48.373 Adding media file e29f44a091518012368474681a2689f5585cd19821a5e3e4bb66ee5b
+2022-10-21 17:45:48.373 Files: 1; Sessions with files: 1
+2022-10-21 17:45:48.671 Overwriting media file e29f44a091518012368474681a2689f5585cd19821a5e3e4bb66ee5b
+2022-10-21 17:45:48.671 Files: 1; Sessions with files: 2
+2022-10-21 17:45:48.844 Making request: POST https://oauth2.googleapis.com/token
+2022-10-21 17:45:48.848 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2022-10-21 17:45:48.901 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2022-10-21 17:45:49.232 Deleting expired files...
+2022-10-21 17:45:49.278 Deleting expired files...
+2022-10-21 17:45:49.866 Script run finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-10-21 17:45:49.894 Script run finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-10-21 17:45:50.217 Shutting down (id=29b8028f-95f6-408a-9158-4ca471ce3236)
+2022-10-21 17:45:50.217 Disconnecting files for session with ID 29b8028f-95f6-408a-9158-4ca471ce3236
+2022-10-21 17:45:50.217 Sessions still active: dict_keys(['0650a421-6ae8-4fa9-ad34-bfd941e37a71'])
+2022-10-21 17:45:50.217 Files: 1; Sessions with files: 1
+2022-10-21 17:45:50.217 Deleting expired files...
+2022-10-21 17:45:50.259 Watcher created for C:\Users\111\streamlit\newrepo2\eee.py
+2022-10-21 17:45:50.259 AppSession initialized (id=d4bd9fb1-80ba-4d75-a8a2-0a2131c0db8f)
+2022-10-21 17:45:50.259 Created new session for client 1317849055296. Session ID: d4bd9fb1-80ba-4d75-a8a2-0a2131c0db8f
+2022-10-21 17:45:50.259 Runtime state: RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED -> RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED
+2022-10-21 17:45:50.261 Shutting down (id=d4bd9fb1-80ba-4d75-a8a2-0a2131c0db8f)
+2022-10-21 17:45:50.261 Disconnecting files for session with ID d4bd9fb1-80ba-4d75-a8a2-0a2131c0db8f
+2022-10-21 17:45:50.261 Sessions still active: dict_keys(['0650a421-6ae8-4fa9-ad34-bfd941e37a71'])
+2022-10-21 17:45:50.261 Files: 1; Sessions with files: 1
+2022-10-21 17:45:50.262 Deleting expired files...
+2022-10-21 17:45:50.839 Watcher created for C:\Users\111\streamlit\newrepo2\eee.py
+2022-10-21 17:45:50.839 AppSession initialized (id=2d082643-794f-4fb6-a196-8f5d079da52e)
+2022-10-21 17:45:50.839 Created new session for client 1317849055824. Session ID: 2d082643-794f-4fb6-a196-8f5d079da52e
+2022-10-21 17:45:50.839 Runtime state: RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED -> RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED
+2022-10-21 17:45:50.851 Received the following back message:
+rerun_script {
+  widget_states {
+  }
+}
+
+2022-10-21 17:45:50.852 Beginning script thread
+2022-10-21 17:45:50.852 Running script RerunData(query_string='', widget_states=, page_script_hash='', page_name='')
+2022-10-21 17:45:50.853 Disconnecting files for session with ID 2d082643-794f-4fb6-a196-8f5d079da52e
+2022-10-21 17:45:50.853 Sessions still active: dict_keys(['0650a421-6ae8-4fa9-ad34-bfd941e37a71'])
+2022-10-21 17:45:50.853 Files: 1; Sessions with files: 1
+2022-10-21 17:45:50.873 This message should go to the log file
+2022-10-21 17:45:50.877 Overwriting media file e29f44a091518012368474681a2689f5585cd19821a5e3e4bb66ee5b
+2022-10-21 17:45:50.878 Files: 1; Sessions with files: 2
+2022-10-21 17:45:50.953 Deleting expired files...
+2022-10-21 17:45:51.296 Script run finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-10-21 17:46:03.205 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.209 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.874 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.878 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.879 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.927 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.957 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.959 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.985 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.991 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:03.998 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.023 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.032 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.035 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.070 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.083 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.089 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.124 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.131 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.166 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.171 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.183 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.510 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.513 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.776 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.779 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:04.950 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:05.382 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:05.385 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:06.915 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:06.918 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:28.936 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:30.020 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:30.548 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:46:30.551 Ignoring changed path C:\Users\111\streamlit\newrepo2\logs.txt.
+Watched_paths: {'C:\\Users\\111\\streamlit\\newrepo2\\pages': WatchedPath(md5='9a06fe7790344a1f2f6e78f39cd7e454', modification_time=0.0, glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x00000132D42A4C40>), 'C:\\Users\\111\\streamlit\\newrepo2\\eee.py': WatchedPath(md5='b8ac7ba6883e31e642fcab6f85ac29f8', modification_time=1666345363.4773633, glob_pattern=None, allow_nonexistent=False, on_changed=<blinker.base.Signal object at 0x00000132D44AEB20>)}
+2022-10-21 17:47:25.854 Runtime stopping...
+2022-10-21 17:47:25.855 Runtime state: RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED -> RuntimeState.STOPPING
+2022-10-21 17:47:25.855 Shutting down (id=0650a421-6ae8-4fa9-ad34-bfd941e37a71)
+2022-10-21 17:47:25.855 Disconnecting files for session with ID 0650a421-6ae8-4fa9-ad34-bfd941e37a71
+2022-10-21 17:47:25.855 Sessions still active: dict_keys(['2d082643-794f-4fb6-a196-8f5d079da52e'])
+2022-10-21 17:47:25.855 Files: 1; Sessions with files: 1
+2022-10-21 17:47:25.855 Deleting expired files...
+2022-10-21 17:47:25.855 Shutting down (id=2d082643-794f-4fb6-a196-8f5d079da52e)
+2022-10-21 17:47:25.856 Disconnecting files for session with ID 2d082643-794f-4fb6-a196-8f5d079da52e
+2022-10-21 17:47:25.856 Sessions still active: dict_keys([])
+2022-10-21 17:47:25.856 Files: 1; Sessions with files: 0
+2022-10-21 17:47:25.856 Deleting expired files...
+2022-10-21 17:47:25.856 Runtime state: RuntimeState.STOPPING -> RuntimeState.STOPPED
