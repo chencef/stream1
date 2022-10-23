@@ -1,6 +1,5 @@
 streamlit
 firebase_admin
 qrcode
-urllib
 PIL
 datetime
