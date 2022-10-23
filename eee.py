@@ -14,7 +14,8 @@ from datetime import timedelta
 #logging.basicConfig(filename='example.log')
 #logging.debug('This message should go to the log file')
 
-url='http://192.168.1.103:8501/?option='
+#url='http://192.168.1.103:8501/?option='
+url='https://chencef-stream1-eee-ulxkku.streamlitapp.com/?option='
 
 #用成共享參數
 list_data=["user_tel", "buy_name", "buy_tel", "buy_add", "item_name", "item_price", "item_num", "item_total", "buy_date", "buy_time"]
